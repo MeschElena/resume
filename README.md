@@ -1,4 +1,4 @@
-![фото](\img\personal-computer-clip-art-the-computer-desk-office.png)
+![](https://github.com/MeschElena/resume/blob/main/img/kisspng-personal-computer-clip-art-the-computer-desk-office-5aa56c105133e4.6973073115207905443326.png)
 
 # РЕЗЮМЕ
 ## Мещерякова Елена Александровна
